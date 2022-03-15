@@ -1,2 +1,4 @@
 wandb/
-test-nli
+test-nli/
+nli*/
+inference*/
